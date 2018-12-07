@@ -25,9 +25,9 @@
   "dependencies": {
     "dompurify": "^1.0.8",
     "jquery": "^3.3.1",
-    "simple-hotkeys": "^1.0.3",
-    "simple-module": "^3.0.3",
-    "simple-uploader": "^3.0.0"
+    "simple-hotkeys": "git+https://github.com/rnfse/simple-hotkeys.git",
+    "simple-module": "git+https://github.com/rnfse/simple-module.git",
+    "simple-uploader": "git+https://github.com/rnfse/simple-uploader.git"
   },
   "devDependencies": {
     "express": "~3.3.4",
